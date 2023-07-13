@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello hot-fix two commit");
         System.out.println("puss test!");
         System.out.println("push test!");
+        System.out.println("使用ssh公钥提交");
     }
 }
